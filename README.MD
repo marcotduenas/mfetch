@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./example.png?raw=true" alt="Mfetch example"/>
-  **mfetch is a minimal fetch written in Python for Arch-Based systems (until now)**
+  <b>mfetch is a minimal fetch written in Python for Arch-Based systems (until now)</b>
 </p>
 
 
