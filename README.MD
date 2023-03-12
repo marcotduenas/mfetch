@@ -1,7 +1,7 @@
 # mfetch
 
 <p align="center">
-  <img src="./example.png?raw=true" alt="Mfetch example"/>
+  <img src="./example.png?raw=true" alt="Mfetch example"/><br>
   <b>mfetch is a minimal fetch written in Python for Arch-Based systems (until now)</b>
 </p>
 
