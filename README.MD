@@ -15,7 +15,7 @@ git clone https://github.com/marcotduenas/mfetch.git
 cd mfetch
 pip install -r requirements.txt
 pyinstaller --onefile mfetch.py
-cd dist && sudo mv mfetch /usr/bin
+cd dist && sudo cp mfetch /usr/bin
  ```
  Don't forget to add the pip binaries to your PATH variable!
  ## Usage 
